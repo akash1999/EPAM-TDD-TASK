@@ -1,3 +1,4 @@
+package tdd;
 public class TDDTest {
 	
 	public String removeA(String str) {
